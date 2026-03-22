@@ -1,13 +1,12 @@
 {
-	"geode": "4.3.1",
+	"geode": "5.4.0",
 	"gd": {
-		"win": "2.2074",
-		"mac": "2.2074",
-		"android": "2.2074",
-		"ios": "2.2074"
-		
+		"win": "2.2081",
+		"mac": "2.2081",
+		"android": "2.2081",
+		"ios": "2.2081"
 	},
-	"version": "v1.0.4",
+	"version": "v1.0.5",
 	"id": "alphalaneous.rainbow_checkpoints",
 	"name": "Rainbow Checkpoints",
 	"developer": "Alphalaneous",
